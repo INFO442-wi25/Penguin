@@ -14,4 +14,4 @@ The actions I will take is to actively communicate with my teammate about the ar
 
 - Focusing on the other projects that you saw in class what is one technology tool that you learned about and may want to try the future?
   
-  A lot of projects used figma to work on their aops. One group used only a text-based UI for creating their app (need to research on this more).
+A lot of projects used figma to work on their aops. One group used only a text-based UI for creating their app (need to research on this more).
