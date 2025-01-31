@@ -1,0 +1,77 @@
+.bg-primary {
+    background-color: #8CD9BD !important;
+}
+
+footer {
+    display: block;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+html, body {
+    height: 100%
+}
+
+body {
+    overflow: "visible";
+}
+
+.searchBar {
+    position: relative;
+    margin-top: 15%;
+    margin-left: 15%;
+    margin-right:15%;
+}
+
+.sticky {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+section {
+    min-height: 90vh;
+}
+
+.review-background {
+    background-color: #6aa38f;
+}
+
+header .cards{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.cards {
+    margin-top: 20%;
+}
+
+.card {
+    width: 18rem;
+}
+
+.bg-secondary {
+    background-color: #aecfc3 !important;
+}
+
+.border-secondary {
+    background-color: #aecfc3 !important;
+}
+
+header {
+    position: fixed;
+    top:0;
+    background-color: rgba(111, 178, 199, .6);
+    z-index: 1;
+}
+
+.background {
+    background: url("../img/hiking-banner.jpg");
+    background-repeat: no-repeat;
+    size: 200%;
+
+}
+
+a:hover {
+    color: black ;
+    background-color: #cfc ;
+}
+
